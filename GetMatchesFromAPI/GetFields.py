@@ -1,6 +1,6 @@
 import json
 
-with open("../GetDataFromAPI/GetDataFromAPI/matches.json", "r", encoding="utf-8") as file:
+with open("../GetMatchesFromAPI/RawData/matches.json", "r", encoding="utf-8") as file:
     text = file.read()
     json_dict = json.loads(text)
     matches = json_dict["matches"]
@@ -26,24 +26,6 @@ for match in matches:
     match_result["points_halftime_away"] = match["score"]["halfTime"]["away"]
     results_matches.append(match_result)
 
-
-
-
-
-
-
-
-
-
-
-
-#"matches": [{ "area":{"name":},
-# "competition": {"name":},
-# "season": {"startDate":, "endDate":, "currentMatchday":},
-# "utcDate":,
-# "homeTeam": {"name":, "shortName":},
-# "awayTeam": {"name":, "shortName":},
-# "score": {"winner":,
-# "fullTime": {"home":,"away":},
-# "halfTime": {"home":,"away":}]
+with open("../GetMatchesFromAPI/TransitData/filters_matches.txt", "w", encoding="utf-8") as w_file:
+    json.dump(results_matches, w_file, indent=2)
 
