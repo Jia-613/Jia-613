@@ -1,0 +1,963 @@
+{
+    "filters": {
+        "dateFrom": "2024-06-01",
+        "dateTo": "2024-06-10",
+        "permission": "TIER_ONE"
+    },
+    "resultSet": {
+        "count": 16,
+        "competitions": "BSA,CL,SA,CLI",
+        "first": "2024-06-01",
+        "last": "2024-06-09",
+        "played": 16
+    },
+    "matches": [{
+        "area": {
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
+        },
+        "competition": {
+            "id": 2013,
+            "name": "Campeonato Brasileiro Série A",
+            "code": "BSA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/bsa.png"
+        },
+        "season": {
+            "id": 2257,
+            "startDate": "2024-04-13",
+            "endDate": "2024-12-08",
+            "currentMatchday": 17,
+            "winner": null
+        },
+        "id": 493819,
+        "utcDate": "2024-06-01T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 7,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2024-06-05T00:20:45Z",
+        "homeTeam": {
+            "id": 1767,
+            "name": "Grêmio FBPA",
+            "shortName": "Grêmio",
+            "tla": "FBP",
+            "crest": "https://crests.football-data.org/1767.png"
+        },
+        "awayTeam": {
+            "id": 4286,
+            "name": "RB Bragantino",
+            "shortName": "Bragantino",
+            "tla": "RBB",
+            "crest": "https://crests.football-data.org/4286.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [{
+            "id": 18754,
+            "name": "Ramon Abatti Abel",
+            "type": "REFEREE",
+            "nationality": "Brazil"
+        }]
+    }, {
+        "area": {
+            "id": 2077,
+            "name": "Europe",
+            "code": "EUR",
+            "flag": "https://crests.football-data.org/EUR.svg"
+        },
+        "competition": {
+            "id": 2001,
+            "name": "UEFA Champions League",
+            "code": "CL",
+            "type": "CUP",
+            "emblem": "https://crests.football-data.org/CL.png"
+        },
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6,
+            "winner": null
+        },
+        "id": 451685,
+        "utcDate": "2024-06-01T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": null,
+        "stage": "FINAL",
+        "group": null,
+        "lastUpdated": "2024-06-15T20:21:00Z",
+        "homeTeam": {
+            "id": 4,
+            "name": "Borussia Dortmund",
+            "shortName": "Dortmund",
+            "tla": "BVB",
+            "crest": "https://crests.football-data.org/4.png"
+        },
+        "awayTeam": {
+            "id": 86,
+            "name": "Real Madrid CF",
+            "shortName": "Real Madrid",
+            "tla": "RMA",
+            "crest": "https://crests.football-data.org/86.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [{
+            "id": 9351,
+            "name": "Slavko Vinčič",
+            "type": "REFEREE",
+            "nationality": "Slovenia"
+        }]
+    }, {
+        "area": {
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
+        },
+        "competition": {
+            "id": 2013,
+            "name": "Campeonato Brasileiro Série A",
+            "code": "BSA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/bsa.png"
+        },
+        "season": {
+            "id": 2257,
+            "startDate": "2024-04-13",
+            "endDate": "2024-12-08",
+            "currentMatchday": 17,
+            "winner": null
+        },
+        "id": 493822,
+        "utcDate": "2024-06-01T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 7,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2024-06-04T00:20:45Z",
+        "homeTeam": {
+            "id": 1782,
+            "name": "EC Vitória",
+            "shortName": "Vitória",
+            "tla": "VIT",
+            "crest": "https://crests.football-data.org/1782.png"
+        },
+        "awayTeam": {
+            "id": 3988,
+            "name": "AC Goianiense",
+            "shortName": "AC Goianiense",
+            "tla": "ACG",
+            "crest": "https://crests.football-data.org/3988.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": []
+    }, {
+        "area": {
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
+        },
+        "competition": {
+            "id": 2013,
+            "name": "Campeonato Brasileiro Série A",
+            "code": "BSA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/bsa.png"
+        },
+        "season": {
+            "id": 2257,
+            "startDate": "2024-04-13",
+            "endDate": "2024-12-08",
+            "currentMatchday": 17,
+            "winner": null
+        },
+        "id": 493817,
+        "utcDate": "2024-06-01T21:30:00Z",
+        "status": "FINISHED",
+        "matchday": 7,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2024-06-04T00:20:45Z",
+        "homeTeam": {
+            "id": 1765,
+            "name": "Fluminense FC",
+            "shortName": "Fluminense",
+            "tla": "FLU",
+            "crest": "https://crests.football-data.org/1765.svg"
+        },
+        "awayTeam": {
+            "id": 4245,
+            "name": "EC Juventude",
+            "shortName": "Juventude",
+            "tla": "JUV",
+            "crest": "https://crests.football-data.org/4245_large.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": []
+    }, {
+        "area": {
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
+        },
+        "competition": {
+            "id": 2013,
+            "name": "Campeonato Brasileiro Série A",
+            "code": "BSA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/bsa.png"
+        },
+        "season": {
+            "id": 2257,
+            "startDate": "2024-04-13",
+            "endDate": "2024-12-08",
+            "currentMatchday": 17,
+            "winner": null
+        },
+        "id": 493816,
+        "utcDate": "2024-06-01T21:30:00Z",
+        "status": "FINISHED",
+        "matchday": 7,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2024-06-04T00:20:45Z",
+        "homeTeam": {
+            "id": 4289,
+            "name": "Cuiabá EC",
+            "shortName": "Cuiabá EC",
+            "tla": "CUI",
+            "crest": "https://crests.football-data.org/4289_large.png"
+        },
+        "awayTeam": {
+            "id": 6684,
+            "name": "SC Internacional",
+            "shortName": "Internacional",
+            "tla": "SCI",
+            "crest": "https://crests.football-data.org/6684.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": []
+    }, {
+        "area": {
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
+        },
+        "competition": {
+            "id": 2013,
+            "name": "Campeonato Brasileiro Série A",
+            "code": "BSA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/bsa.png"
+        },
+        "season": {
+            "id": 2257,
+            "startDate": "2024-04-13",
+            "endDate": "2024-12-08",
+            "currentMatchday": 17,
+            "winner": null
+        },
+        "id": 493814,
+        "utcDate": "2024-06-02T00:00:00Z",
+        "status": "FINISHED",
+        "matchday": 7,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2024-07-10T10:20:55Z",
+        "homeTeam": {
+            "id": 1779,
+            "name": "SC Corinthians Paulista",
+            "shortName": "Corinthians",
+            "tla": "COR",
+            "crest": "https://crests.football-data.org/1779.svg"
+        },
+        "awayTeam": {
+            "id": 1770,
+            "name": "Botafogo FR",
+            "shortName": "Botafogo",
+            "tla": "BOT",
+            "crest": "https://crests.football-data.org/1770.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": []
+    }, {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 1600,
+            "startDate": "2023-08-19",
+            "endDate": "2024-06-02",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 444534,
+        "utcDate": "2024-06-02T16:00:00Z",
+        "status": "FINISHED",
+        "matchday": 29,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2024-06-02T20:20:54Z",
+        "homeTeam": {
+            "id": 102,
+            "name": "Atalanta BC",
+            "shortName": "Atalanta",
+            "tla": "ATA",
+            "crest": "https://crests.football-data.org/102.png"
+        },
+        "awayTeam": {
+            "id": 99,
+            "name": "ACF Fiorentina",
+            "shortName": "Fiorentina",
+            "tla": "FIO",
+            "crest": "https://crests.football-data.org/99.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 2,
+                "away": 3
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [{
+            "id": 206189,
+            "name": "Juan Luca Sacchi",
+            "type": "REFEREE",
+            "nationality": "Italy"
+        }, {
+            "id": 11116,
+            "name": "Daniele Orsato",
+            "type": "REFEREE",
+            "nationality": "Italy"
+        }]
+    }, {
+        "area": {
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
+        },
+        "competition": {
+            "id": 2013,
+            "name": "Campeonato Brasileiro Série A",
+            "code": "BSA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/bsa.png"
+        },
+        "season": {
+            "id": 2257,
+            "startDate": "2024-04-13",
+            "endDate": "2024-12-08",
+            "currentMatchday": 17,
+            "winner": null
+        },
+        "id": 493813,
+        "utcDate": "2024-06-02T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 7,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2024-06-04T05:20:48Z",
+        "homeTeam": {
+            "id": 1766,
+            "name": "CA Mineiro",
+            "shortName": "Mineiro",
+            "tla": "CAM",
+            "crest": "https://crests.football-data.org/1766.png"
+        },
+        "awayTeam": {
+            "id": 1777,
+            "name": "EC Bahia",
+            "shortName": "Bahia",
+            "tla": "BAH",
+            "crest": "https://crests.football-data.org/1777.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": []
+    }, {
+        "area": {
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
+        },
+        "competition": {
+            "id": 2013,
+            "name": "Campeonato Brasileiro Série A",
+            "code": "BSA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/bsa.png"
+        },
+        "season": {
+            "id": 2257,
+            "startDate": "2024-04-13",
+            "endDate": "2024-12-08",
+            "currentMatchday": 17,
+            "winner": null
+        },
+        "id": 493821,
+        "utcDate": "2024-06-02T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 7,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2024-07-10T10:20:55Z",
+        "homeTeam": {
+            "id": 1780,
+            "name": "CR Vasco da Gama",
+            "shortName": "Vasco da Gama",
+            "tla": "VAS",
+            "crest": "https://crests.football-data.org/1780.png"
+        },
+        "awayTeam": {
+            "id": 1783,
+            "name": "CR Flamengo",
+            "shortName": "Flamengo",
+            "tla": "FLA",
+            "crest": "https://crests.football-data.org/1783.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 6
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 3
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": []
+    }, {
+        "area": {
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
+        },
+        "competition": {
+            "id": 2013,
+            "name": "Campeonato Brasileiro Série A",
+            "code": "BSA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/bsa.png"
+        },
+        "season": {
+            "id": 2257,
+            "startDate": "2024-04-13",
+            "endDate": "2024-12-08",
+            "currentMatchday": 17,
+            "winner": null
+        },
+        "id": 493815,
+        "utcDate": "2024-06-02T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 7,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2024-07-10T10:20:55Z",
+        "homeTeam": {
+            "id": 4243,
+            "name": "Criciúma EC",
+            "shortName": "Criciúma",
+            "tla": "CRI",
+            "crest": "https://crests.football-data.org/4243.png"
+        },
+        "awayTeam": {
+            "id": 1769,
+            "name": "SE Palmeiras",
+            "shortName": "Palmeiras",
+            "tla": "PAL",
+            "crest": "https://crests.football-data.org/1769.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": []
+    }, {
+        "area": {
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
+        },
+        "competition": {
+            "id": 2013,
+            "name": "Campeonato Brasileiro Série A",
+            "code": "BSA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/bsa.png"
+        },
+        "season": {
+            "id": 2257,
+            "startDate": "2024-04-13",
+            "endDate": "2024-12-08",
+            "currentMatchday": 17,
+            "winner": null
+        },
+        "id": 493820,
+        "utcDate": "2024-06-02T21:30:00Z",
+        "status": "FINISHED",
+        "matchday": 7,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2024-06-04T05:20:48Z",
+        "homeTeam": {
+            "id": 1776,
+            "name": "São Paulo FC",
+            "shortName": "São Paulo",
+            "tla": "PAU",
+            "crest": "https://crests.football-data.org/1776.png"
+        },
+        "awayTeam": {
+            "id": 1771,
+            "name": "Cruzeiro EC",
+            "shortName": "Cruzeiro",
+            "tla": "CRU",
+            "crest": "https://crests.football-data.org/1771.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": []
+    }, {
+        "area": {
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
+        },
+        "competition": {
+            "id": 2013,
+            "name": "Campeonato Brasileiro Série A",
+            "code": "BSA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/bsa.png"
+        },
+        "season": {
+            "id": 2257,
+            "startDate": "2024-04-13",
+            "endDate": "2024-12-08",
+            "currentMatchday": 17,
+            "winner": null
+        },
+        "id": 493818,
+        "utcDate": "2024-06-02T21:30:00Z",
+        "status": "FINISHED",
+        "matchday": 7,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2024-06-04T05:20:48Z",
+        "homeTeam": {
+            "id": 3984,
+            "name": "Fortaleza EC",
+            "shortName": "Fortaleza",
+            "tla": "FEC",
+            "crest": "https://crests.football-data.org/3984.png"
+        },
+        "awayTeam": {
+            "id": 1768,
+            "name": "CA Paranaense",
+            "shortName": "Paranaense",
+            "tla": "CAP",
+            "crest": "https://crests.football-data.org/1768.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": []
+    }, {
+        "area": {
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
+        },
+        "competition": {
+            "id": 2013,
+            "name": "Campeonato Brasileiro Série A",
+            "code": "BSA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/bsa.png"
+        },
+        "season": {
+            "id": 2257,
+            "startDate": "2024-04-13",
+            "endDate": "2024-12-08",
+            "currentMatchday": 17,
+            "winner": null
+        },
+        "id": 493801,
+        "utcDate": "2024-06-05T22:00:00Z",
+        "status": "FINISHED",
+        "matchday": 5,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2024-06-06T20:20:47Z",
+        "homeTeam": {
+            "id": 4245,
+            "name": "EC Juventude",
+            "shortName": "Juventude",
+            "tla": "JUV",
+            "crest": "https://crests.football-data.org/4245_large.png"
+        },
+        "awayTeam": {
+            "id": 3988,
+            "name": "AC Goianiense",
+            "shortName": "AC Goianiense",
+            "tla": "ACG",
+            "crest": "https://crests.football-data.org/3988.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": []
+    }, {
+        "area": {
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
+        },
+        "competition": {
+            "id": 2013,
+            "name": "Campeonato Brasileiro Série A",
+            "code": "BSA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/bsa.png"
+        },
+        "season": {
+            "id": 2257,
+            "startDate": "2024-04-13",
+            "endDate": "2024-12-08",
+            "currentMatchday": 17,
+            "winner": null
+        },
+        "id": 493767,
+        "utcDate": "2024-06-05T23:00:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2024-06-06T20:20:47Z",
+        "homeTeam": {
+            "id": 4289,
+            "name": "Cuiabá EC",
+            "shortName": "Cuiabá EC",
+            "tla": "CUI",
+            "crest": "https://crests.football-data.org/4289_large.png"
+        },
+        "awayTeam": {
+            "id": 1782,
+            "name": "EC Vitória",
+            "shortName": "Vitória",
+            "tla": "VIT",
+            "crest": "https://crests.football-data.org/1782.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": []
+    }, {
+        "area": {
+            "id": 2220,
+            "name": "South America",
+            "code": "SAM",
+            "flag": "https://crests.football-data.org/CLI.svg"
+        },
+        "competition": {
+            "id": 2152,
+            "name": "Copa Libertadores",
+            "code": "CLI",
+            "type": "CUP",
+            "emblem": "https://crests.football-data.org/CLI.svg"
+        },
+        "season": {
+            "id": 1644,
+            "startDate": "2024-02-07",
+            "endDate": "2024-05-31",
+            "currentMatchday": 6,
+            "winner": null
+        },
+        "id": 494827,
+        "utcDate": "2024-06-08T22:00:00Z",
+        "status": "FINISHED",
+        "matchday": 5,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_C",
+        "lastUpdated": "2024-06-09T01:53:24Z",
+        "homeTeam": {
+            "id": 1767,
+            "name": "Grêmio FBPA",
+            "shortName": "Grêmio",
+            "tla": "FBP",
+            "crest": "https://crests.football-data.org/1767.png"
+        },
+        "awayTeam": {
+            "id": 2051,
+            "name": "Estudiantes de La Plata",
+            "shortName": "Estudiantes LP",
+            "tla": "EST",
+            "crest": "https://crests.football-data.org/2051.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": []
+    }, {
+        "area": {
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
+        },
+        "competition": {
+            "id": 2013,
+            "name": "Campeonato Brasileiro Série A",
+            "code": "BSA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/bsa.png"
+        },
+        "season": {
+            "id": 2257,
+            "startDate": "2024-04-13",
+            "endDate": "2024-12-08",
+            "currentMatchday": 17,
+            "winner": null
+        },
+        "id": 493806,
+        "utcDate": "2024-06-09T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 6,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2024-06-14T05:21:02Z",
+        "homeTeam": {
+            "id": 4243,
+            "name": "Criciúma EC",
+            "shortName": "Criciúma",
+            "tla": "CRI",
+            "crest": "https://crests.football-data.org/4243.png"
+        },
+        "awayTeam": {
+            "id": 4289,
+            "name": "Cuiabá EC",
+            "shortName": "Cuiabá EC",
+            "tla": "CUI",
+            "crest": "https://crests.football-data.org/4289_large.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 5
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 3
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": []
+    }]
+}
